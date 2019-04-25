@@ -1,0 +1,12 @@
+C:\Users\Kartua\Documents\KartuaDocument\VBcourse\ReadEmployeeData\ReadEmployeeData\bin\Debug\ReadEmployeeData.exe.config
+C:\Users\Kartua\Documents\KartuaDocument\VBcourse\ReadEmployeeData\ReadEmployeeData\bin\Debug\ReadEmployeeData.exe
+C:\Users\Kartua\Documents\KartuaDocument\VBcourse\ReadEmployeeData\ReadEmployeeData\bin\Debug\ReadEmployeeData.pdb
+C:\Users\Kartua\Documents\KartuaDocument\VBcourse\ReadEmployeeData\ReadEmployeeData\bin\Debug\ReadEmployeeData.xml
+C:\Users\Kartua\Documents\KartuaDocument\VBcourse\ReadEmployeeData\ReadEmployeeData\obj\Debug\ReadEmployeeData.vbprojResolveAssemblyReference.cache
+C:\Users\Kartua\Documents\KartuaDocument\VBcourse\ReadEmployeeData\ReadEmployeeData\obj\Debug\ReadEmployeeData.Resources.resources
+C:\Users\Kartua\Documents\KartuaDocument\VBcourse\ReadEmployeeData\ReadEmployeeData\obj\Debug\ReadEmployeeData.vbproj.GenerateResource.cache
+C:\Users\Kartua\Documents\KartuaDocument\VBcourse\ReadEmployeeData\ReadEmployeeData\obj\Debug\ReadEmployeeData.vbproj.CoreCompileInputs.cache
+C:\Users\Kartua\Documents\KartuaDocument\VBcourse\ReadEmployeeData\ReadEmployeeData\obj\Debug\ReadEmployeeData.exe
+C:\Users\Kartua\Documents\KartuaDocument\VBcourse\ReadEmployeeData\ReadEmployeeData\obj\Debug\ReadEmployeeData.xml
+C:\Users\Kartua\Documents\KartuaDocument\VBcourse\ReadEmployeeData\ReadEmployeeData\obj\Debug\ReadEmployeeData.pdb
+C:\Users\Kartua\Documents\KartuaDocument\VBcourse\ReadEmployeeData\ReadEmployeeData\obj\Debug\ReadEmployeeData.ReadDataForm.resources
